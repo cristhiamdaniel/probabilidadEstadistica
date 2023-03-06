@@ -1,0 +1,5 @@
+En Bogota, Colombia, un grupo de estudiantes de ingenieria civil esta trabajando en un proyecto de construccion de un edificio de apartamentos en un barrio residencial. El equipo necesita calcular las medidas de tendencia central de los precios de los terrenos en el area circundante para poder establecer un presupuesto adecuado para el proyecto.
+
+Despuws de investigar, el equipo encuentra que hay 50 terrenos en la zona circundante y que los precios var?an ampliamente. Los precios van desde $300 millones de pesos hasta $1.500 millones de pesos. El equipo de estudiantes necesita calcular la media, la mediana y la moda de los precios para tener una idea clara de los costos de los terrenos en la zona.
+
+Con esta informacion, los estudiantes podran establecer un presupuesto adecuado para el proyecto y asegurarse de que estan asignando los recursos de manera efectiva. Ademas, tambian podran evaluar la rentabilidad del proyecto y determinar si es viable a largo plazo.
